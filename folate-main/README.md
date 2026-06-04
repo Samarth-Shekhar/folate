@@ -54,5 +54,5 @@ MIT
 
 ---
 
-If you'd like a more detailed README (badges, screenshots, or deployment instructions), tell me what to include and I will expand it.
+
 
